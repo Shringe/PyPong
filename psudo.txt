@@ -1,0 +1,14 @@
+#finishing product
+placeholder1 should be music toggle*
+placeholder2 should be game sound toggle*(need to make button sound count)*
+add tbox for randomizize projectory and a toggle*
+
+#if we have time AFTER AI
+make save settings buttton
+ADVANCED PADDLE COLLISION TWEAKING
+change certain TBOX to sliders# have to develop own sliders (none online)
+
+
+#bugs
+rework game restarting system(it cant handle losses in quick succesion and is off center)*
+lower paddle bouncing not working*
