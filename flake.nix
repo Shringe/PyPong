@@ -20,7 +20,7 @@
           ];
 
           shellHook = ''
-            exec fish
+            echo "Hello! Welcome to the PyPong development shell. Start the game with: python3 \"./PyPongALPHA.py\""
           '';
         };
       }
