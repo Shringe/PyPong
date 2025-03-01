@@ -25,3 +25,9 @@ pip install pygame
 ```sh
 python3 "PyPongALPHA.py"
 ```
+
+### Screenshots
+![screenshot](images/Title_Screen.png)
+![screenshot](images/Settings_Menu.png)
+![screenshot](images/Game_Mode_Select.png)
+![screenshot](images/Gameplay.png)
