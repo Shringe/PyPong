@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# Shebang added retroactively while packaging for Nix
+
 #personal imports
 import pygame as pg
 import os
